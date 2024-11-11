@@ -11,6 +11,7 @@
 - **Interactive Learning**: Engage with the bot to ask questions and learn Tamil in a conversational manner.
 - **Streamlit Web Interface**: Built using Streamlit to create an interactive and easy-to-use web app.
 
+- 
 ## Technologies Used
 
 - **Gemini API**: The core AI service for generating responses and content. Users need to purchase access to the Gemini API to use it.
